@@ -218,7 +218,7 @@
             <p class="text-sm md:text-base text-gray-200 max-w-xl mx-auto mb-8">
                 No esperes a que las interferencias del ambiente sigan afectando tu salud física o tu descanso nocturno. Agenda hoy una sesión completa.
             </p>
-            <a href="https://wa.me/5211234567890?text=Hola,%20realice%20el%20test%20vibracional%20y%20quiero%20agendar%20mi%20sesion%20de%20Terapia%20de%20Restauracion%20Energetica%20Integral" target="_blank" class="inline-block bg-[#10B981] hover:bg-emerald-600 text-white font-bold px-8 py-3.5 rounded-full text-base tracking-wide transition shadow-lg">
+            <a href="https://wa.me/525532081621?text=Hola,%20realice%20el%20test%20vibracional%20y%20quiero%20agendar%20mi%20sesion%20de%20Terapia%20de%20Restauracion%20Energetica%20Integral" target="_blank" class="inline-block bg-[#10B981] hover:bg-emerald-600 text-white font-bold px-8 py-3.5 rounded-full text-base tracking-wide transition shadow-lg">
                 Agendar Mi Sesión por WhatsApp
             </a>
         </section>
@@ -273,7 +273,7 @@
                 customMessage = "Hola! Realicé el test y mi resultado fue Sobrecarga Alta. Deseo agendar con prioridad la Terapia de Restauración Energética Integral.";
             }
 
-            btn.href = `https://wa.me/5211234567890?text=${encodeURIComponent(customMessage)}`;
+            btn.href = `https://wa.me/525532081621?text=${encodeURIComponent(customMessage)}`;
             resultDiv.scrollIntoView({ behavior: 'smooth' });
         }
 
